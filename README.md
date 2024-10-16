@@ -4,28 +4,15 @@ Mobile app engineer with 3 years of coding experience. Always learning new thing
 
 ## Connect with me
 
-- Telegram: [@madmax0015](https://t.me/madmax0015)
-- Discord: Murray#1105
-- Dev.to: [prodevking1](https://dev.to/prodevking1)
-- Twitter: [@AbdoulRAchidTa4](https://twitter.com/AbdoulRAchidTa4)
+- Linkedin : https://www.linkedin.com/in/tspb/
+- Reach me at : https://linktr.ee/a.rachid
 
 ## My Favorite Tools
 
-### Programming Languages
+### Programming Technos
 
-C, CSS, Dart, HTML, Java, JavaScript, Node.js, PHP, Python, SQL
+Flutter/Dart, NextJS, Deno, Node.js, Laravel
 
-### Frameworks and Libraries
-
-Arduino, Bootstrap, Express.js, Flutter, Material Design, Laravel, React, Symfony, TensorFlow, WordPress, Angular.js
-
-### Databases and Cloud Hosting
-
-GitHub Pages, Heroku, MongoDB, MySQL, Oracle, PostgreSQL, SQLite, Vercel
-
-### Software and Tools
-
-Adobe, Android Studio, Git, Google Sheets, Postman, Visual Studio Code
 
 ## GitHub Stats
 
